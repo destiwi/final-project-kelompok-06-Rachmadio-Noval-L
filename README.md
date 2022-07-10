@@ -15,6 +15,6 @@ Problem: classification
 
 Final Model: Random Forest
 
-Link Repositori: <link menuju repositori ini>
+Link Repositori: https://github.com/destiwi/final-project-kelompok-06-Rachmadio-Noval-L
 
-Link PPT: <link presentasi dalam google slides> 
+Link PPT: https://docs.google.com/presentation/d/1stvPKBJ0FJVPS0lGrzu28xJm_0bUYi30/edit?usp=sharing&ouid=113139034927832898955&rtpof=true&sd=true
